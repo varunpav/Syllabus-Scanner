@@ -1,0 +1,19 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+.env
+
+# React/node
+my-syllabus-scanner/node_modules/
+my-syllabus-scanner/build/
+.npm
+
+# IDEs and editors
+.idea/
+*.swp
+*.swo
+.DS_Store
+
+# Google client secrets
+client_secret_*.json
